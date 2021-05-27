@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ConvertMetersToKilometers", "01.ConvertMetersToKilometers.csproj", "{B10FCDAB-2D6B-4E5B-9320-F47149EC5839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PoundsToDollars$", "..\02.PoundsToDollars$\02.PoundsToDollars$.csproj", "{3B764DA8-104F-430D-9580-36B6B70ED635}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B10FCDAB-2D6B-4E5B-9320-F47149EC5839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10FCDAB-2D6B-4E5B-9320-F47149EC5839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10FCDAB-2D6B-4E5B-9320-F47149EC5839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10FCDAB-2D6B-4E5B-9320-F47149EC5839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B764DA8-104F-430D-9580-36B6B70ED635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B764DA8-104F-430D-9580-36B6B70ED635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B764DA8-104F-430D-9580-36B6B70ED635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B764DA8-104F-430D-9580-36B6B70ED635}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CAB2292-1DDB-432F-B2D9-B27DC322F854}
+	EndGlobalSection
+EndGlobal
