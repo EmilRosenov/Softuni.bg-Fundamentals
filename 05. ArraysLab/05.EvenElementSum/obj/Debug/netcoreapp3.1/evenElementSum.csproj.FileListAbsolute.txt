@@ -1,0 +1,12 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysLab\evenElementSum\bin\Debug\netcoreapp3.1\evenElementSum.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysLab\evenElementSum\bin\Debug\netcoreapp3.1\evenElementSum.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysLab\evenElementSum\bin\Debug\netcoreapp3.1\evenElementSum.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysLab\evenElementSum\bin\Debug\netcoreapp3.1\evenElementSum.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysLab\evenElementSum\bin\Debug\netcoreapp3.1\evenElementSum.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysLab\evenElementSum\bin\Debug\netcoreapp3.1\evenElementSum.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysLab\evenElementSum\obj\Debug\netcoreapp3.1\evenElementSum.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysLab\evenElementSum\obj\Debug\netcoreapp3.1\evenElementSum.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysLab\evenElementSum\obj\Debug\netcoreapp3.1\evenElementSum.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysLab\evenElementSum\obj\Debug\netcoreapp3.1\evenElementSum.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysLab\evenElementSum\obj\Debug\netcoreapp3.1\evenElementSum.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysLab\evenElementSum\obj\Debug\netcoreapp3.1\evenElementSum.genruntimeconfig.cache
