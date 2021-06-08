@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysLab\6EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\6EvenAndOddSubtraction.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysLab\6EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\6EvenAndOddSubtraction.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysLab\6EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\6EvenAndOddSubtraction.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysLab\6EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\6EvenAndOddSubtraction.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysLab\6EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\6EvenAndOddSubtraction.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysLab\6EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\6EvenAndOddSubtraction.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysLab\6EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\6EvenAndOddSubtraction.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysLab\6EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\6EvenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysLab\6EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\6EvenAndOddSubtraction.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysLab\6EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\6EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysLab\6EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\6EvenAndOddSubtraction.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysLab\6EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\6EvenAndOddSubtraction.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysLab\6EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\6EvenAndOddSubtraction.genruntimeconfig.cache
