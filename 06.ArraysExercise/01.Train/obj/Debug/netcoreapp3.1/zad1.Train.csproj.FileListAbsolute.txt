@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad1.Train\bin\Debug\netcoreapp3.1\zad1.Train.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad1.Train\bin\Debug\netcoreapp3.1\zad1.Train.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad1.Train\bin\Debug\netcoreapp3.1\zad1.Train.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad1.Train\bin\Debug\netcoreapp3.1\zad1.Train.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad1.Train\bin\Debug\netcoreapp3.1\zad1.Train.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad1.Train\bin\Debug\netcoreapp3.1\zad1.Train.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad1.Train\obj\Debug\netcoreapp3.1\zad1.Train.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad1.Train\obj\Debug\netcoreapp3.1\zad1.Train.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad1.Train\obj\Debug\netcoreapp3.1\zad1.Train.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad1.Train\obj\Debug\netcoreapp3.1\zad1.Train.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad1.Train\obj\Debug\netcoreapp3.1\zad1.Train.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad1.Train\obj\Debug\netcoreapp3.1\zad1.Train.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad1.Train\obj\Debug\netcoreapp3.1\zad1.Train.genruntimeconfig.cache
