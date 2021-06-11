@@ -1,0 +1,1 @@
+This is an exercise from the softuni, c# lection for arrays 
