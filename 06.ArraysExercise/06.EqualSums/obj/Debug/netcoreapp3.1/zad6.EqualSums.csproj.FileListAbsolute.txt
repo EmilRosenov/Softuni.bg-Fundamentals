@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad6.EqualSums\bin\Debug\netcoreapp3.1\zad6.EqualSums.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad6.EqualSums\bin\Debug\netcoreapp3.1\zad6.EqualSums.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad6.EqualSums\bin\Debug\netcoreapp3.1\zad6.EqualSums.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad6.EqualSums\bin\Debug\netcoreapp3.1\zad6.EqualSums.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad6.EqualSums\bin\Debug\netcoreapp3.1\zad6.EqualSums.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad6.EqualSums\bin\Debug\netcoreapp3.1\zad6.EqualSums.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad6.EqualSums\obj\Debug\netcoreapp3.1\zad6.EqualSums.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad6.EqualSums\obj\Debug\netcoreapp3.1\zad6.EqualSums.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad6.EqualSums\obj\Debug\netcoreapp3.1\zad6.EqualSums.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad6.EqualSums\obj\Debug\netcoreapp3.1\zad6.EqualSums.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad6.EqualSums\obj\Debug\netcoreapp3.1\zad6.EqualSums.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad6.EqualSums\obj\Debug\netcoreapp3.1\zad6.EqualSums.genruntimeconfig.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad6.EqualSums\obj\Debug\netcoreapp3.1\zad6.EqualSums.csprojAssemblyReference.cache
