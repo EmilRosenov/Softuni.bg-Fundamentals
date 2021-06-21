@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "zad8.MagicSum/1.0.0": {
+        "runtime": {
+          "zad8.MagicSum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zad8.MagicSum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
