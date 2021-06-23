@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad9.KaminoFactory\bin\Debug\netcoreapp3.1\zad9.KaminoFactory.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad9.KaminoFactory\bin\Debug\netcoreapp3.1\zad9.KaminoFactory.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad9.KaminoFactory\bin\Debug\netcoreapp3.1\zad9.KaminoFactory.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad9.KaminoFactory\bin\Debug\netcoreapp3.1\zad9.KaminoFactory.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad9.KaminoFactory\bin\Debug\netcoreapp3.1\zad9.KaminoFactory.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad9.KaminoFactory\bin\Debug\netcoreapp3.1\zad9.KaminoFactory.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad9.KaminoFactory\obj\Debug\netcoreapp3.1\zad9.KaminoFactory.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad9.KaminoFactory\obj\Debug\netcoreapp3.1\zad9.KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad9.KaminoFactory\obj\Debug\netcoreapp3.1\zad9.KaminoFactory.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad9.KaminoFactory\obj\Debug\netcoreapp3.1\zad9.KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad9.KaminoFactory\obj\Debug\netcoreapp3.1\zad9.KaminoFactory.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad9.KaminoFactory\obj\Debug\netcoreapp3.1\zad9.KaminoFactory.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad9.KaminoFactory\obj\Debug\netcoreapp3.1\zad9.KaminoFactory.genruntimeconfig.cache

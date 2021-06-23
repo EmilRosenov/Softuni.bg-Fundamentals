@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "zad9.KaminoFactory/1.0.0": {
+        "runtime": {
+          "zad9.KaminoFactory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zad9.KaminoFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
