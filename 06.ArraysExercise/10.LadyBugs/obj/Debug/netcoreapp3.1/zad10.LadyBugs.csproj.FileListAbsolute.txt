@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad.10LadyBugs\bin\Debug\netcoreapp3.1\zad10.LadyBugs.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad.10LadyBugs\bin\Debug\netcoreapp3.1\zad10.LadyBugs.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad.10LadyBugs\bin\Debug\netcoreapp3.1\zad10.LadyBugs.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad.10LadyBugs\bin\Debug\netcoreapp3.1\zad10.LadyBugs.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad.10LadyBugs\bin\Debug\netcoreapp3.1\zad10.LadyBugs.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad.10LadyBugs\bin\Debug\netcoreapp3.1\zad10.LadyBugs.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad.10LadyBugs\obj\Debug\netcoreapp3.1\zad10.LadyBugs.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad.10LadyBugs\obj\Debug\netcoreapp3.1\zad10.LadyBugs.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad.10LadyBugs\obj\Debug\netcoreapp3.1\zad10.LadyBugs.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad.10LadyBugs\obj\Debug\netcoreapp3.1\zad10.LadyBugs.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad.10LadyBugs\obj\Debug\netcoreapp3.1\zad10.LadyBugs.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad.10LadyBugs\obj\Debug\netcoreapp3.1\zad10.LadyBugs.genruntimeconfig.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ArraysExercise\001.AgainExercise\zad.10LadyBugs\obj\Debug\netcoreapp3.1\zad10.LadyBugs.csprojAssemblyReference.cache

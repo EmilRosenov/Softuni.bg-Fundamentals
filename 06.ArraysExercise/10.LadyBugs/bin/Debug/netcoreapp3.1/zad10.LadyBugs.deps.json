@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "zad10.LadyBugs/1.0.0": {
+        "runtime": {
+          "zad10.LadyBugs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zad10.LadyBugs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
