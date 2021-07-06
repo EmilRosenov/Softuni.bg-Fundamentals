@@ -1,0 +1,12 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\Grades\bin\Debug\netcoreapp3.1\Grades.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\Grades\bin\Debug\netcoreapp3.1\Grades.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\Grades\bin\Debug\netcoreapp3.1\Grades.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\Grades\bin\Debug\netcoreapp3.1\Grades.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\Grades\bin\Debug\netcoreapp3.1\Grades.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\Grades\bin\Debug\netcoreapp3.1\Grades.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\Grades\obj\Debug\netcoreapp3.1\Grades.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\Grades\obj\Debug\netcoreapp3.1\Grades.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\Grades\obj\Debug\netcoreapp3.1\Grades.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\Grades\obj\Debug\netcoreapp3.1\Grades.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\Grades\obj\Debug\netcoreapp3.1\Grades.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\Grades\obj\Debug\netcoreapp3.1\Grades.genruntimeconfig.cache
