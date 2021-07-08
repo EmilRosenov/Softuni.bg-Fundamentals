@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\PrintTriangle\bin\Debug\netcoreapp3.1\PrintTriangle.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\PrintTriangle\bin\Debug\netcoreapp3.1\PrintTriangle.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\PrintTriangle\bin\Debug\netcoreapp3.1\PrintTriangle.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\PrintTriangle\bin\Debug\netcoreapp3.1\PrintTriangle.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\PrintTriangle\bin\Debug\netcoreapp3.1\PrintTriangle.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\PrintTriangle\bin\Debug\netcoreapp3.1\PrintTriangle.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\PrintTriangle\obj\Debug\netcoreapp3.1\PrintTriangle.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\PrintTriangle\obj\Debug\netcoreapp3.1\PrintTriangle.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\PrintTriangle\obj\Debug\netcoreapp3.1\PrintTriangle.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\PrintTriangle\obj\Debug\netcoreapp3.1\PrintTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\PrintTriangle\obj\Debug\netcoreapp3.1\PrintTriangle.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\PrintTriangle\obj\Debug\netcoreapp3.1\PrintTriangle.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\PrintTriangle\obj\Debug\netcoreapp3.1\PrintTriangle.genruntimeconfig.cache
