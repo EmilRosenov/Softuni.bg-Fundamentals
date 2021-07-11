@@ -1,0 +1,12 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\RepeatStringWithStringBuilder\bin\Debug\netcoreapp3.1\RepeatStringWithStringBuilder.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\RepeatStringWithStringBuilder\bin\Debug\netcoreapp3.1\RepeatStringWithStringBuilder.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\RepeatStringWithStringBuilder\bin\Debug\netcoreapp3.1\RepeatStringWithStringBuilder.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\RepeatStringWithStringBuilder\bin\Debug\netcoreapp3.1\RepeatStringWithStringBuilder.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\RepeatStringWithStringBuilder\bin\Debug\netcoreapp3.1\RepeatStringWithStringBuilder.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\RepeatStringWithStringBuilder\bin\Debug\netcoreapp3.1\RepeatStringWithStringBuilder.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\RepeatStringWithStringBuilder\obj\Debug\netcoreapp3.1\RepeatStringWithStringBuilder.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\RepeatStringWithStringBuilder\obj\Debug\netcoreapp3.1\RepeatStringWithStringBuilder.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\RepeatStringWithStringBuilder\obj\Debug\netcoreapp3.1\RepeatStringWithStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\RepeatStringWithStringBuilder\obj\Debug\netcoreapp3.1\RepeatStringWithStringBuilder.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\RepeatStringWithStringBuilder\obj\Debug\netcoreapp3.1\RepeatStringWithStringBuilder.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\RepeatStringWithStringBuilder\obj\Debug\netcoreapp3.1\RepeatStringWithStringBuilder.genruntimeconfig.cache
