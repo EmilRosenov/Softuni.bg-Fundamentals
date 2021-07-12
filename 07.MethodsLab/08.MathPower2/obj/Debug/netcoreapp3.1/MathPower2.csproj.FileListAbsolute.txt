@@ -1,0 +1,12 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MathPower2\bin\Debug\netcoreapp3.1\MathPower2.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MathPower2\bin\Debug\netcoreapp3.1\MathPower2.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MathPower2\bin\Debug\netcoreapp3.1\MathPower2.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MathPower2\bin\Debug\netcoreapp3.1\MathPower2.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MathPower2\bin\Debug\netcoreapp3.1\MathPower2.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MathPower2\bin\Debug\netcoreapp3.1\MathPower2.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MathPower2\obj\Debug\netcoreapp3.1\MathPower2.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MathPower2\obj\Debug\netcoreapp3.1\MathPower2.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MathPower2\obj\Debug\netcoreapp3.1\MathPower2.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MathPower2\obj\Debug\netcoreapp3.1\MathPower2.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MathPower2\obj\Debug\netcoreapp3.1\MathPower2.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MathPower2\obj\Debug\netcoreapp3.1\MathPower2.genruntimeconfig.cache
