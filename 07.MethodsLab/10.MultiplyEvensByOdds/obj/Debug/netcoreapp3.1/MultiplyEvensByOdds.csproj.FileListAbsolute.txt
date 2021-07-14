@@ -1,0 +1,12 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\MultiplyEvensByOdds.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\MultiplyEvensByOdds.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\MultiplyEvensByOdds.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\MultiplyEvensByOdds.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\MultiplyEvensByOdds.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\MultiplyEvensByOdds.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.genruntimeconfig.cache
