@@ -1,0 +1,12 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Methods3rdAndLastTimeLab\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.genruntimeconfig.cache
