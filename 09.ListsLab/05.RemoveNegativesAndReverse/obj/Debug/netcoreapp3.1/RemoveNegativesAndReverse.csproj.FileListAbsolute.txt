@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsStamoPetkovFebruary\RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsStamoPetkovFebruary\RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsStamoPetkovFebruary\RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsStamoPetkovFebruary\RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsStamoPetkovFebruary\RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsStamoPetkovFebruary\RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsStamoPetkovFebruary\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsStamoPetkovFebruary\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsStamoPetkovFebruary\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsStamoPetkovFebruary\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsStamoPetkovFebruary\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsStamoPetkovFebruary\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsStamoPetkovFebruary\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.genruntimeconfig.cache
