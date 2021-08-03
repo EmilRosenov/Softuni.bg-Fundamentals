@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsExerciseAleksandarKermanov\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsExerciseAleksandarKermanov\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsExerciseAleksandarKermanov\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsExerciseAleksandarKermanov\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsExerciseAleksandarKermanov\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsExerciseAleksandarKermanov\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsExerciseAleksandarKermanov\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsExerciseAleksandarKermanov\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsExerciseAleksandarKermanov\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsExerciseAleksandarKermanov\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsExerciseAleksandarKermanov\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsExerciseAleksandarKermanov\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ListsExerciseAleksandarKermanov\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.genruntimeconfig.cache
