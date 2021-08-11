@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ObjectsAndClasses2\RandomizeWords\bin\Debug\netcoreapp3.1\RandomizeWords.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ObjectsAndClasses2\RandomizeWords\bin\Debug\netcoreapp3.1\RandomizeWords.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ObjectsAndClasses2\RandomizeWords\bin\Debug\netcoreapp3.1\RandomizeWords.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ObjectsAndClasses2\RandomizeWords\bin\Debug\netcoreapp3.1\RandomizeWords.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ObjectsAndClasses2\RandomizeWords\bin\Debug\netcoreapp3.1\RandomizeWords.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ObjectsAndClasses2\RandomizeWords\bin\Debug\netcoreapp3.1\RandomizeWords.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ObjectsAndClasses2\RandomizeWords\obj\Debug\netcoreapp3.1\RandomizeWords.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ObjectsAndClasses2\RandomizeWords\obj\Debug\netcoreapp3.1\RandomizeWords.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ObjectsAndClasses2\RandomizeWords\obj\Debug\netcoreapp3.1\RandomizeWords.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ObjectsAndClasses2\RandomizeWords\obj\Debug\netcoreapp3.1\RandomizeWords.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ObjectsAndClasses2\RandomizeWords\obj\Debug\netcoreapp3.1\RandomizeWords.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ObjectsAndClasses2\RandomizeWords\obj\Debug\netcoreapp3.1\RandomizeWords.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\ObjectsAndClasses2\RandomizeWords\obj\Debug\netcoreapp3.1\RandomizeWords.genruntimeconfig.cache
