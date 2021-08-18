@@ -1,0 +1,1 @@
+Hi there, this is the exercise for objects and classes in the c# path of SoftwareUniversity
