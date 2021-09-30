@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\02.AMinersTask\bin\Debug\netcoreapp3.1\02.AMinersTask.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\02.AMinersTask\bin\Debug\netcoreapp3.1\02.AMinersTask.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\02.AMinersTask\bin\Debug\netcoreapp3.1\02.AMinersTask.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\02.AMinersTask\bin\Debug\netcoreapp3.1\02.AMinersTask.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\02.AMinersTask\bin\Debug\netcoreapp3.1\02.AMinersTask.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\02.AMinersTask\bin\Debug\netcoreapp3.1\02.AMinersTask.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\02.AMinersTask\obj\Debug\netcoreapp3.1\02.AMinersTask.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\02.AMinersTask\obj\Debug\netcoreapp3.1\02.AMinersTask.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\02.AMinersTask\obj\Debug\netcoreapp3.1\02.AMinersTask.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\02.AMinersTask\obj\Debug\netcoreapp3.1\02.AMinersTask.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\02.AMinersTask\obj\Debug\netcoreapp3.1\02.AMinersTask.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\02.AMinersTask\obj\Debug\netcoreapp3.1\02.AMinersTask.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\02.AMinersTask\obj\Debug\netcoreapp3.1\02.AMinersTask.genruntimeconfig.cache
