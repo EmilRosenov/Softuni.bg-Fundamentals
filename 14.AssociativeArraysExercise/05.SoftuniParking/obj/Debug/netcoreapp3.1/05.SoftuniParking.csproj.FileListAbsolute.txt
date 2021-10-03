@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\05.SoftuniParking\bin\Debug\netcoreapp3.1\05.SoftuniParking.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\05.SoftuniParking\bin\Debug\netcoreapp3.1\05.SoftuniParking.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\05.SoftuniParking\bin\Debug\netcoreapp3.1\05.SoftuniParking.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\05.SoftuniParking\bin\Debug\netcoreapp3.1\05.SoftuniParking.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\05.SoftuniParking\bin\Debug\netcoreapp3.1\05.SoftuniParking.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\05.SoftuniParking\bin\Debug\netcoreapp3.1\05.SoftuniParking.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\05.SoftuniParking\obj\Debug\netcoreapp3.1\05.SoftuniParking.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\05.SoftuniParking\obj\Debug\netcoreapp3.1\05.SoftuniParking.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\05.SoftuniParking\obj\Debug\netcoreapp3.1\05.SoftuniParking.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\05.SoftuniParking\obj\Debug\netcoreapp3.1\05.SoftuniParking.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\05.SoftuniParking\obj\Debug\netcoreapp3.1\05.SoftuniParking.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\05.SoftuniParking\obj\Debug\netcoreapp3.1\05.SoftuniParking.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\05.SoftuniParking\obj\Debug\netcoreapp3.1\05.SoftuniParking.genruntimeconfig.cache
