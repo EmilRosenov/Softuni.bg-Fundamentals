@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\09.ForceBook\bin\Debug\netcoreapp3.1\09.ForceBook.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\09.ForceBook\bin\Debug\netcoreapp3.1\09.ForceBook.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\09.ForceBook\bin\Debug\netcoreapp3.1\09.ForceBook.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\09.ForceBook\bin\Debug\netcoreapp3.1\09.ForceBook.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\09.ForceBook\bin\Debug\netcoreapp3.1\09.ForceBook.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\09.ForceBook\bin\Debug\netcoreapp3.1\09.ForceBook.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\09.ForceBook\obj\Debug\netcoreapp3.1\09.ForceBook.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\09.ForceBook\obj\Debug\netcoreapp3.1\09.ForceBook.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\09.ForceBook\obj\Debug\netcoreapp3.1\09.ForceBook.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\09.ForceBook\obj\Debug\netcoreapp3.1\09.ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\09.ForceBook\obj\Debug\netcoreapp3.1\09.ForceBook.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\09.ForceBook\obj\Debug\netcoreapp3.1\09.ForceBook.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\09.ForceBook\obj\Debug\netcoreapp3.1\09.ForceBook.genruntimeconfig.cache
