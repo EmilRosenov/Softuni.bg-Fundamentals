@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\10.SoftUniExamResults\bin\Debug\netcoreapp3.1\10.SoftUniExamResults.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\10.SoftUniExamResults\bin\Debug\netcoreapp3.1\10.SoftUniExamResults.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\10.SoftUniExamResults\bin\Debug\netcoreapp3.1\10.SoftUniExamResults.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\10.SoftUniExamResults\bin\Debug\netcoreapp3.1\10.SoftUniExamResults.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\10.SoftUniExamResults\bin\Debug\netcoreapp3.1\10.SoftUniExamResults.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\10.SoftUniExamResults\bin\Debug\netcoreapp3.1\10.SoftUniExamResults.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\10.SoftUniExamResults\obj\Debug\netcoreapp3.1\10.SoftUniExamResults.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\10.SoftUniExamResults\obj\Debug\netcoreapp3.1\10.SoftUniExamResults.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\10.SoftUniExamResults\obj\Debug\netcoreapp3.1\10.SoftUniExamResults.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\10.SoftUniExamResults\obj\Debug\netcoreapp3.1\10.SoftUniExamResults.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\10.SoftUniExamResults\obj\Debug\netcoreapp3.1\10.SoftUniExamResults.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\10.SoftUniExamResults\obj\Debug\netcoreapp3.1\10.SoftUniExamResults.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Associative Arrays Exercise\AssociativeArr200721\10.SoftUniExamResults\obj\Debug\netcoreapp3.1\10.SoftUniExamResults.genruntimeconfig.cache
