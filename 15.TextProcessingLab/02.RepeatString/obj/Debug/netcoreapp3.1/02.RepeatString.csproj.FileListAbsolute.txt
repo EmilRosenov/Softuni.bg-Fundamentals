@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\String and Text Processing Lab\02.RepeatString\bin\Debug\netcoreapp3.1\02.RepeatString.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\String and Text Processing Lab\02.RepeatString\bin\Debug\netcoreapp3.1\02.RepeatString.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\String and Text Processing Lab\02.RepeatString\bin\Debug\netcoreapp3.1\02.RepeatString.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\String and Text Processing Lab\02.RepeatString\bin\Debug\netcoreapp3.1\02.RepeatString.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\String and Text Processing Lab\02.RepeatString\bin\Debug\netcoreapp3.1\02.RepeatString.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\String and Text Processing Lab\02.RepeatString\bin\Debug\netcoreapp3.1\02.RepeatString.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\String and Text Processing Lab\02.RepeatString\obj\Debug\netcoreapp3.1\02.RepeatString.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\String and Text Processing Lab\02.RepeatString\obj\Debug\netcoreapp3.1\02.RepeatString.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\String and Text Processing Lab\02.RepeatString\obj\Debug\netcoreapp3.1\02.RepeatString.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\String and Text Processing Lab\02.RepeatString\obj\Debug\netcoreapp3.1\02.RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\String and Text Processing Lab\02.RepeatString\obj\Debug\netcoreapp3.1\02.RepeatString.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\String and Text Processing Lab\02.RepeatString\obj\Debug\netcoreapp3.1\02.RepeatString.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\String and Text Processing Lab\02.RepeatString\obj\Debug\netcoreapp3.1\02.RepeatString.genruntimeconfig.cache
