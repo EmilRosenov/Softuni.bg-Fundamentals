@@ -1,0 +1,1 @@
+Hi there, here are some solutions from the Text processing exercise in c# path in softuni course c# fundamentals 
