@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\01.ValidUsername\obj\Debug\netcoreapp3.1\01.ValidUsername.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\01.ValidUsername\obj\Debug\netcoreapp3.1\01.ValidUsername.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\01.ValidUsername\obj\Debug\netcoreapp3.1\01.ValidUsername.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\01.ValidUsername\obj\Debug\netcoreapp3.1\01.ValidUsername.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\01.ValidUsername\bin\Debug\netcoreapp3.1\01.ValidUsername.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\01.ValidUsername\bin\Debug\netcoreapp3.1\01.ValidUsername.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\01.ValidUsername\bin\Debug\netcoreapp3.1\01.ValidUsername.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\01.ValidUsername\bin\Debug\netcoreapp3.1\01.ValidUsername.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\01.ValidUsername\bin\Debug\netcoreapp3.1\01.ValidUsername.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\01.ValidUsername\bin\Debug\netcoreapp3.1\01.ValidUsername.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\01.ValidUsername\obj\Debug\netcoreapp3.1\01.ValidUsername.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\01.ValidUsername\obj\Debug\netcoreapp3.1\01.ValidUsername.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\01.ValidUsername\obj\Debug\netcoreapp3.1\01.ValidUsername.genruntimeconfig.cache
