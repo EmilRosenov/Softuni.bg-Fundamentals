@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\02.CharacterMultiplier\bin\Debug\netcoreapp3.1\02.CharacterMultiplier.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\02.CharacterMultiplier\bin\Debug\netcoreapp3.1\02.CharacterMultiplier.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\02.CharacterMultiplier\bin\Debug\netcoreapp3.1\02.CharacterMultiplier.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\02.CharacterMultiplier\bin\Debug\netcoreapp3.1\02.CharacterMultiplier.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\02.CharacterMultiplier\bin\Debug\netcoreapp3.1\02.CharacterMultiplier.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\02.CharacterMultiplier\bin\Debug\netcoreapp3.1\02.CharacterMultiplier.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\02.CharacterMultiplier\obj\Debug\netcoreapp3.1\02.CharacterMultiplier.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\02.CharacterMultiplier\obj\Debug\netcoreapp3.1\02.CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\02.CharacterMultiplier\obj\Debug\netcoreapp3.1\02.CharacterMultiplier.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\02.CharacterMultiplier\obj\Debug\netcoreapp3.1\02.CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\02.CharacterMultiplier\obj\Debug\netcoreapp3.1\02.CharacterMultiplier.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\02.CharacterMultiplier\obj\Debug\netcoreapp3.1\02.CharacterMultiplier.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\02.CharacterMultiplier\obj\Debug\netcoreapp3.1\02.CharacterMultiplier.genruntimeconfig.cache
