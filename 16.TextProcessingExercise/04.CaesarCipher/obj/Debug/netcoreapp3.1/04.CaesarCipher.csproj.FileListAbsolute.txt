@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.genruntimeconfig.cache
