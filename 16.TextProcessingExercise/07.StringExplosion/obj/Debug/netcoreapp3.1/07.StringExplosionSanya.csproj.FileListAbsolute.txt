@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\07.StringExplosionSanya\bin\Debug\netcoreapp3.1\07.StringExplosionSanya.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\07.StringExplosionSanya\bin\Debug\netcoreapp3.1\07.StringExplosionSanya.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\07.StringExplosionSanya\bin\Debug\netcoreapp3.1\07.StringExplosionSanya.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\07.StringExplosionSanya\bin\Debug\netcoreapp3.1\07.StringExplosionSanya.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\07.StringExplosionSanya\bin\Debug\netcoreapp3.1\07.StringExplosionSanya.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\07.StringExplosionSanya\bin\Debug\netcoreapp3.1\07.StringExplosionSanya.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\07.StringExplosionSanya\obj\Debug\netcoreapp3.1\07.StringExplosionSanya.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\07.StringExplosionSanya\obj\Debug\netcoreapp3.1\07.StringExplosionSanya.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\07.StringExplosionSanya\obj\Debug\netcoreapp3.1\07.StringExplosionSanya.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\07.StringExplosionSanya\obj\Debug\netcoreapp3.1\07.StringExplosionSanya.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\07.StringExplosionSanya\obj\Debug\netcoreapp3.1\07.StringExplosionSanya.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\07.StringExplosionSanya\obj\Debug\netcoreapp3.1\07.StringExplosionSanya.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\Text Processing Exercise\07.StringExplosionSanya\obj\Debug\netcoreapp3.1\07.StringExplosionSanya.genruntimeconfig.cache
