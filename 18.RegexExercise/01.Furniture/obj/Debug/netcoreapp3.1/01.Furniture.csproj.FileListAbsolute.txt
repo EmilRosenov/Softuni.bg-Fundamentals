@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\RegularExpressions-Exercise\bin\Debug\netcoreapp3.1\01.Furniture.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\RegularExpressions-Exercise\bin\Debug\netcoreapp3.1\01.Furniture.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\RegularExpressions-Exercise\bin\Debug\netcoreapp3.1\01.Furniture.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\RegularExpressions-Exercise\bin\Debug\netcoreapp3.1\01.Furniture.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\RegularExpressions-Exercise\bin\Debug\netcoreapp3.1\01.Furniture.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\RegularExpressions-Exercise\bin\Debug\netcoreapp3.1\01.Furniture.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\RegularExpressions-Exercise\obj\Debug\netcoreapp3.1\01.Furniture.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\RegularExpressions-Exercise\obj\Debug\netcoreapp3.1\01.Furniture.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\RegularExpressions-Exercise\obj\Debug\netcoreapp3.1\01.Furniture.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\RegularExpressions-Exercise\obj\Debug\netcoreapp3.1\01.Furniture.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\RegularExpressions-Exercise\obj\Debug\netcoreapp3.1\01.Furniture.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\RegularExpressions-Exercise\obj\Debug\netcoreapp3.1\01.Furniture.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\RegularExpressions-Exercise\obj\Debug\netcoreapp3.1\01.Furniture.genruntimeconfig.cache
