@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-LAB\01.MatchFullName\Regex-lab\bin\Debug\netcoreapp3.1\01.MatchFullName.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-LAB\01.MatchFullName\Regex-lab\bin\Debug\netcoreapp3.1\01.MatchFullName.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-LAB\01.MatchFullName\Regex-lab\bin\Debug\netcoreapp3.1\01.MatchFullName.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-LAB\01.MatchFullName\Regex-lab\bin\Debug\netcoreapp3.1\01.MatchFullName.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-LAB\01.MatchFullName\Regex-lab\bin\Debug\netcoreapp3.1\01.MatchFullName.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-LAB\01.MatchFullName\Regex-lab\bin\Debug\netcoreapp3.1\01.MatchFullName.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-LAB\01.MatchFullName\Regex-lab\obj\Debug\netcoreapp3.1\01.MatchFullName.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-LAB\01.MatchFullName\Regex-lab\obj\Debug\netcoreapp3.1\01.MatchFullName.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-LAB\01.MatchFullName\Regex-lab\obj\Debug\netcoreapp3.1\01.MatchFullName.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-LAB\01.MatchFullName\Regex-lab\obj\Debug\netcoreapp3.1\01.MatchFullName.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-LAB\01.MatchFullName\Regex-lab\obj\Debug\netcoreapp3.1\01.MatchFullName.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-LAB\01.MatchFullName\Regex-lab\obj\Debug\netcoreapp3.1\01.MatchFullName.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-LAB\01.MatchFullName\Regex-lab\obj\Debug\netcoreapp3.1\01.MatchFullName.genruntimeconfig.cache
