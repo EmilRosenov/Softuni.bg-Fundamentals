@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\02.Race\bin\Debug\netcoreapp3.1\02.Race.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\02.Race\bin\Debug\netcoreapp3.1\02.Race.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\02.Race\bin\Debug\netcoreapp3.1\02.Race.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\02.Race\bin\Debug\netcoreapp3.1\02.Race.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\02.Race\bin\Debug\netcoreapp3.1\02.Race.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\02.Race\bin\Debug\netcoreapp3.1\02.Race.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\02.Race\obj\Debug\netcoreapp3.1\02.Race.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\02.Race\obj\Debug\netcoreapp3.1\02.Race.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\02.Race\obj\Debug\netcoreapp3.1\02.Race.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\02.Race\obj\Debug\netcoreapp3.1\02.Race.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\02.Race\obj\Debug\netcoreapp3.1\02.Race.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\02.Race\obj\Debug\netcoreapp3.1\02.Race.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\02.Race\obj\Debug\netcoreapp3.1\02.Race.genruntimeconfig.cache
