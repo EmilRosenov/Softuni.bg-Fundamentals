@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\netcoreapp3.1\06.ExtractEmails.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\netcoreapp3.1\06.ExtractEmails.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\netcoreapp3.1\06.ExtractEmails.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\netcoreapp3.1\06.ExtractEmails.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\netcoreapp3.1\06.ExtractEmails.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\netcoreapp3.1\06.ExtractEmails.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\netcoreapp3.1\06.ExtractEmails.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\netcoreapp3.1\06.ExtractEmails.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\netcoreapp3.1\06.ExtractEmails.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\netcoreapp3.1\06.ExtractEmails.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\netcoreapp3.1\06.ExtractEmails.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\netcoreapp3.1\06.ExtractEmails.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\REGEX-EXERCISE\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\netcoreapp3.1\06.ExtractEmails.genruntimeconfig.cache
