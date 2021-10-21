@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.genruntimeconfig.cache
