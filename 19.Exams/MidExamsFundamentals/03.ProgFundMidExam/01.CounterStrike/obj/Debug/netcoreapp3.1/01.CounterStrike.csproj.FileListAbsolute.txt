@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\ConsoleApp1\bin\Debug\netcoreapp3.1\01.CounterStrike.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\ConsoleApp1\bin\Debug\netcoreapp3.1\01.CounterStrike.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\ConsoleApp1\bin\Debug\netcoreapp3.1\01.CounterStrike.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\ConsoleApp1\bin\Debug\netcoreapp3.1\01.CounterStrike.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\ConsoleApp1\bin\Debug\netcoreapp3.1\01.CounterStrike.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\ConsoleApp1\bin\Debug\netcoreapp3.1\01.CounterStrike.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\ConsoleApp1\obj\Debug\netcoreapp3.1\01.CounterStrike.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\ConsoleApp1\obj\Debug\netcoreapp3.1\01.CounterStrike.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\ConsoleApp1\obj\Debug\netcoreapp3.1\01.CounterStrike.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\ConsoleApp1\obj\Debug\netcoreapp3.1\01.CounterStrike.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\ConsoleApp1\obj\Debug\netcoreapp3.1\01.CounterStrike.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\ConsoleApp1\obj\Debug\netcoreapp3.1\01.CounterStrike.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03.ProgrammingFundamentalsMExam\ConsoleApp1\obj\Debug\netcoreapp3.1\01.CounterStrike.genruntimeconfig.cache
