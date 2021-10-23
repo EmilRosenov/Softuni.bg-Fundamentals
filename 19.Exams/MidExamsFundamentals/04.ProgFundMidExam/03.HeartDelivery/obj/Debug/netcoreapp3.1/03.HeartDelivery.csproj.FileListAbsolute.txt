@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\04.MidExam\03.HeartDelivery\bin\Debug\netcoreapp3.1\03.HeartDelivery.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\04.MidExam\03.HeartDelivery\bin\Debug\netcoreapp3.1\03.HeartDelivery.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\04.MidExam\03.HeartDelivery\bin\Debug\netcoreapp3.1\03.HeartDelivery.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\04.MidExam\03.HeartDelivery\bin\Debug\netcoreapp3.1\03.HeartDelivery.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\04.MidExam\03.HeartDelivery\bin\Debug\netcoreapp3.1\03.HeartDelivery.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\04.MidExam\03.HeartDelivery\bin\Debug\netcoreapp3.1\03.HeartDelivery.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\04.MidExam\03.HeartDelivery\obj\Debug\netcoreapp3.1\03.HeartDelivery.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\04.MidExam\03.HeartDelivery\obj\Debug\netcoreapp3.1\03.HeartDelivery.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\04.MidExam\03.HeartDelivery\obj\Debug\netcoreapp3.1\03.HeartDelivery.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\04.MidExam\03.HeartDelivery\obj\Debug\netcoreapp3.1\03.HeartDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\04.MidExam\03.HeartDelivery\obj\Debug\netcoreapp3.1\03.HeartDelivery.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\04.MidExam\03.HeartDelivery\obj\Debug\netcoreapp3.1\03.HeartDelivery.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\04.MidExam\03.HeartDelivery\obj\Debug\netcoreapp3.1\03.HeartDelivery.genruntimeconfig.cache
