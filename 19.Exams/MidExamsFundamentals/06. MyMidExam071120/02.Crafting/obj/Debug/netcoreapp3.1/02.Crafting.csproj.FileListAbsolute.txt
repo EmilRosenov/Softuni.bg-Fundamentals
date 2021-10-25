@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03. MidExam 071120\02.Crafting\bin\Debug\netcoreapp3.1\02.Crafting.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03. MidExam 071120\02.Crafting\bin\Debug\netcoreapp3.1\02.Crafting.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03. MidExam 071120\02.Crafting\bin\Debug\netcoreapp3.1\02.Crafting.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03. MidExam 071120\02.Crafting\bin\Debug\netcoreapp3.1\02.Crafting.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03. MidExam 071120\02.Crafting\bin\Debug\netcoreapp3.1\02.Crafting.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03. MidExam 071120\02.Crafting\bin\Debug\netcoreapp3.1\02.Crafting.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03. MidExam 071120\02.Crafting\obj\Debug\netcoreapp3.1\02.Crafting.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03. MidExam 071120\02.Crafting\obj\Debug\netcoreapp3.1\02.Crafting.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03. MidExam 071120\02.Crafting\obj\Debug\netcoreapp3.1\02.Crafting.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03. MidExam 071120\02.Crafting\obj\Debug\netcoreapp3.1\02.Crafting.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03. MidExam 071120\02.Crafting\obj\Debug\netcoreapp3.1\02.Crafting.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03. MidExam 071120\02.Crafting\obj\Debug\netcoreapp3.1\02.Crafting.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\MIDEXAMS\03. MidExam 071120\02.Crafting\obj\Debug\netcoreapp3.1\02.Crafting.genruntimeconfig.cache
