@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\01.ProgFundFinalExam\01.ProgFundFinalExam\01.ImitationGame\bin\Debug\netcoreapp3.1\01.ImitationGame.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\01.ProgFundFinalExam\01.ProgFundFinalExam\01.ImitationGame\bin\Debug\netcoreapp3.1\01.ImitationGame.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\01.ProgFundFinalExam\01.ProgFundFinalExam\01.ImitationGame\bin\Debug\netcoreapp3.1\01.ImitationGame.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\01.ProgFundFinalExam\01.ProgFundFinalExam\01.ImitationGame\bin\Debug\netcoreapp3.1\01.ImitationGame.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\01.ProgFundFinalExam\01.ProgFundFinalExam\01.ImitationGame\bin\Debug\netcoreapp3.1\01.ImitationGame.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\01.ProgFundFinalExam\01.ProgFundFinalExam\01.ImitationGame\bin\Debug\netcoreapp3.1\01.ImitationGame.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\01.ProgFundFinalExam\01.ProgFundFinalExam\01.ImitationGame\obj\Debug\netcoreapp3.1\01.ImitationGame.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\01.ProgFundFinalExam\01.ProgFundFinalExam\01.ImitationGame\obj\Debug\netcoreapp3.1\01.ImitationGame.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\01.ProgFundFinalExam\01.ProgFundFinalExam\01.ImitationGame\obj\Debug\netcoreapp3.1\01.ImitationGame.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\01.ProgFundFinalExam\01.ProgFundFinalExam\01.ImitationGame\obj\Debug\netcoreapp3.1\01.ImitationGame.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\01.ProgFundFinalExam\01.ProgFundFinalExam\01.ImitationGame\obj\Debug\netcoreapp3.1\01.ImitationGame.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\01.ProgFundFinalExam\01.ProgFundFinalExam\01.ImitationGame\obj\Debug\netcoreapp3.1\01.ImitationGame.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\01.ProgFundFinalExam\01.ProgFundFinalExam\01.ImitationGame\obj\Debug\netcoreapp3.1\01.ImitationGame.genruntimeconfig.cache
