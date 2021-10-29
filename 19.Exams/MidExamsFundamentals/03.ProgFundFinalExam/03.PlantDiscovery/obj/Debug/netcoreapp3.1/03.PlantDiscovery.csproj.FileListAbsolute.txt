@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\03.PlantDiscovery\bin\Debug\netcoreapp3.1\03.PlantDiscovery.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\03.PlantDiscovery\bin\Debug\netcoreapp3.1\03.PlantDiscovery.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\03.PlantDiscovery\bin\Debug\netcoreapp3.1\03.PlantDiscovery.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\03.PlantDiscovery\bin\Debug\netcoreapp3.1\03.PlantDiscovery.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\03.PlantDiscovery\bin\Debug\netcoreapp3.1\03.PlantDiscovery.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\03.PlantDiscovery\bin\Debug\netcoreapp3.1\03.PlantDiscovery.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\03.PlantDiscovery\obj\Debug\netcoreapp3.1\03.PlantDiscovery.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\03.PlantDiscovery\obj\Debug\netcoreapp3.1\03.PlantDiscovery.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\03.PlantDiscovery\obj\Debug\netcoreapp3.1\03.PlantDiscovery.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\03.PlantDiscovery\obj\Debug\netcoreapp3.1\03.PlantDiscovery.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\03.PlantDiscovery\obj\Debug\netcoreapp3.1\03.PlantDiscovery.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\03.PlantDiscovery\obj\Debug\netcoreapp3.1\03.PlantDiscovery.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\03.PlantDiscovery\obj\Debug\netcoreapp3.1\03.PlantDiscovery.genruntimeconfig.cache

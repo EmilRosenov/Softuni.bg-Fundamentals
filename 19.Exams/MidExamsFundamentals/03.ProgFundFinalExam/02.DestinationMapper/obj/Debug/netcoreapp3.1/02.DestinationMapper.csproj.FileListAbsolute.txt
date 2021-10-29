@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\02.DestinationMapper\bin\Debug\netcoreapp3.1\02.DestinationMapper.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\02.DestinationMapper\bin\Debug\netcoreapp3.1\02.DestinationMapper.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\02.DestinationMapper\bin\Debug\netcoreapp3.1\02.DestinationMapper.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\02.DestinationMapper\bin\Debug\netcoreapp3.1\02.DestinationMapper.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\02.DestinationMapper\bin\Debug\netcoreapp3.1\02.DestinationMapper.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\02.DestinationMapper\bin\Debug\netcoreapp3.1\02.DestinationMapper.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\02.DestinationMapper\obj\Debug\netcoreapp3.1\02.DestinationMapper.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\02.DestinationMapper\obj\Debug\netcoreapp3.1\02.DestinationMapper.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\02.DestinationMapper\obj\Debug\netcoreapp3.1\02.DestinationMapper.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\02.DestinationMapper\obj\Debug\netcoreapp3.1\02.DestinationMapper.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\02.DestinationMapper\obj\Debug\netcoreapp3.1\02.DestinationMapper.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\02.DestinationMapper\obj\Debug\netcoreapp3.1\02.DestinationMapper.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\03.FundamentalsFinalExamRetake\02.ProgFundFinalExam\02.DestinationMapper\obj\Debug\netcoreapp3.1\02.DestinationMapper.genruntimeconfig.cache
