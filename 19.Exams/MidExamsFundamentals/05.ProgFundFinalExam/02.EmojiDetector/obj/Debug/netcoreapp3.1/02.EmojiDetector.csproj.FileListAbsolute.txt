@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\05.ProgFundFinalExam\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\05.ProgFundFinalExam\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\05.ProgFundFinalExam\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\05.ProgFundFinalExam\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\05.ProgFundFinalExam\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\05.ProgFundFinalExam\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\05.ProgFundFinalExam\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\05.ProgFundFinalExam\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\05.ProgFundFinalExam\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\05.ProgFundFinalExam\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\05.ProgFundFinalExam\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\05.ProgFundFinalExam\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\05.ProgFundFinalExam\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.genruntimeconfig.cache
