@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\03\bin\Debug\netcoreapp3.1\03.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\03\bin\Debug\netcoreapp3.1\03.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\03\bin\Debug\netcoreapp3.1\03.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\03\bin\Debug\netcoreapp3.1\03.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\03\bin\Debug\netcoreapp3.1\03.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\03\bin\Debug\netcoreapp3.1\03.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\03\obj\Debug\netcoreapp3.1\03.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\03\obj\Debug\netcoreapp3.1\03.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\03\obj\Debug\netcoreapp3.1\03.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\03\obj\Debug\netcoreapp3.1\03.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\03\obj\Debug\netcoreapp3.1\03.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\03\obj\Debug\netcoreapp3.1\03.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\03\obj\Debug\netcoreapp3.1\03.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\bin\Debug\netcoreapp3.1\01.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\bin\Debug\netcoreapp3.1\01.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\bin\Debug\netcoreapp3.1\01.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\bin\Debug\netcoreapp3.1\01.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\bin\Debug\netcoreapp3.1\01.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\bin\Debug\netcoreapp3.1\01.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\obj\Debug\netcoreapp3.1\01.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\obj\Debug\netcoreapp3.1\01.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\obj\Debug\netcoreapp3.1\01.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\obj\Debug\netcoreapp3.1\01.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\obj\Debug\netcoreapp3.1\01.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\obj\Debug\netcoreapp3.1\01.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Fundamentals\FINALEXAMS\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\06.ProgFundMyFinalExam\obj\Debug\netcoreapp3.1\01.genruntimeconfig.cache
